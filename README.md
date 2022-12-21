@@ -1,6 +1,6 @@
 # Coolor
 
-<img src="https://pictshare.net/y9odxj.png" width="600" height="250">
+<img src="https://pictshare.net/y9odxj.png" width="700" height="250">
 
 This 2D Platformer Game Design prototype was created with my 3 fellow groupmates, its published version contains a debug level as well as 2 game levels ready to play! Together we developped sound effects, music, animations, UI, narration, graphics and game mecanics using **Construct3** with **JavaScrip**. 
 
@@ -8,7 +8,7 @@ This 2D Platformer Game Design prototype was created with my 3 fellow groupmates
 - [Try the game!](https://maximezmt.itch.io/coolor)
 - [Our Github Game Studio](https://github.com/RabbitStudiosCH)
  
-<img src="https://pictshare.net/xcz77n.jpg" width="550" height="700">
+<img src="https://pictshare.net/xcz77n.jpg" width="750" height="900">
 
 
 ## Our Team
