@@ -8,7 +8,7 @@ This 2D Platformer Game Design prototype was created with my 3 fellow groupmates
 - [Try the game!](https://maximezmt.itch.io/coolor)
 - [Our Github Game Studio](https://github.com/RabbitStudiosCH)
  
-<img src="https://pictshare.net/xcz77n.jpg" width="800" height="1000">
+<img src="https://pictshare.net/xcz77n.jpg" width="800" height="1050">
 
 
 ## Our Team
