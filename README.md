@@ -15,6 +15,6 @@ This 2D Platformer Game Design prototype was created with my 3 fellow groupmates
 | Name                    |                                     GitHub username |
 | :---------------------- | --------------------------------------------------: |
 | Daniel D.               | [TruddyTheDuddi](https://github.com/TruddyTheDuddi) |
-| Yonah Bôle              |                   [ybole](https://github.com/ybole) |
+| Yonah Bôle              |             [Nayrobie](https://github.com/Nayrobie) |
 | Alexandre Yohann Riou   |         [shanzhaiii](https://github.com/shanzhaiii) |
 | Maxime Zammit           |           [MaximeZmt](https://github.com/MaximeZmt) |
