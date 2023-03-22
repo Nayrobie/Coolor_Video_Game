@@ -11,7 +11,7 @@ This 2D Platformer Game Design prototype was created with my 3 fellow groupmates
  
 ## The Level Design of the Game 
 
-For the level design, we wanted to create a game whith little to no indications for the player, meaning the goal of the level and how to naviguate it had to be easy to understand. We started with a simple draft, then created it digitally in Adobe and tested it in the game engine, finally we continued developping the background and game assets and improved the graphics.
+For the level design, I wanted to create a game whith little to no indications for the player, meaning the goal of the level and how to naviguate it had to be easy to understand. We started with a simple draft, then created it digitally in Adobe and tested it in the game engine, finally we continued developping the background and game assets and improved the graphics.
 
 ![Untitled_Artwork 1](https://user-images.githubusercontent.com/80701265/227017513-e72c6ac3-b53b-4c30-b7a4-a269d95ebdbe.png)
 ![Untitled_Artwork 2](https://user-images.githubusercontent.com/80701265/227018070-20c48e63-d580-4228-b137-7139dacba067.png)
